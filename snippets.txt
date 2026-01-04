@@ -1,0 +1,54 @@
+to add a link that opens new tab instead of in the same tab
+<a href="your_external_url" target="_blank" rel="noopener noreferrer">Link Text</a>
+------------------------------------------
+boilerplate for html page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+</body>
+<footer>
+</footer>
+</html>
+----------------------------------------------
+for inserting dropdowns in nav bar buttons
+<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li class="dropdown">
+      <a href="#" class="dropdown-button">Services</a>
+      <ul class="dropdown-content">
+        <li><a href="#">Web Design</a></li>
+        <li><a href="#">Graphic Design</a></li>
+        <li><a href="#">Marketing</a></li>
+      </ul>
+    </li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+-----------------------------------------
+Design inspo:
+Pay Attention to Layout: Observe how designers use grids, white space, and visual hierarchy.
+
+Analyze Typography: Note the font families, sizes, and weights used.
+
+Study Color Palettes: Pay attention to the color schemes and how they create a mood.
+
+Observe Interactions: Analyze how animations and interactive elements enhance the user experience.
+
+Focus on User Experience (UX): Consider how the design contributes to the overall usability of the website.
+
+Do not just copy: use these sites to inspire your own unique design.
+
+Font: Open Sans. google fonts
+
+Dribbble (dribbble.com
+cssdesignawards.com
+typewolf.com
+land-book.com
